@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+python-dateutil
+sqlalchemy
+databases
+aiosqlite
+scipy
+plotly
+streamlit
+fpdf2
+kaleido
+streamlit-authenticator==0.3.2
+pyyaml
+reportlab
+bcrypt
