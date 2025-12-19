@@ -8,6 +8,7 @@ databases
 aiosqlite
 scipy
 plotly
+matplotlib
 streamlit
 fpdf2
 kaleido
